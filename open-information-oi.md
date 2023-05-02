@@ -130,6 +130,7 @@ No existing platform has all of these features and some features have not been f
     - [ArWiki](https://arwiki.wiki)
     - [Permafacts](https://permafacts.arweave.dev)
     - [Alex](https://alex.arweave.dev)
+    - [Akord](https://hackmd.io/@openinfo/akord)
 - [IPFS](https://docs.google.com/document/u/0/d/1BEauu3Ohyf8IAjrRgos7qOUYw17Q-5LjMdLq72BY0ck/edit)
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Gemini's Cryptopedia](https://www.gemini.com/cryptopedia)
