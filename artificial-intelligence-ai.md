@@ -9,16 +9,43 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 <p style="text-align: center; font-style: italic;">AI</p>
 
+# Bing
+
+*[bing.com/new](https://www.bing.com/new)*
+
+## About
+- Free (Requires users to download Microsoft's Edge browser)
+- Text based
+- Connected to the internet
+    - Causes a few seconds of loading time
+- Provides the sources used to generate the results
+
+## Generate images
+
+#### About
+
+- Powered by DALL-E: [labs.openai.com](https://labs.openai.com/)
+
+#### Steps
+
+- Requires signing into a Microsoft account in Edge > *Set tone of responses* > Select *More Creative* > Indicate in the chat to create an image, e.g. `Create an image of a Lorax`.
+- Or, use standalone site: [bing.com/create](https://www.bing.com/create)
+
 # ChatGPT
 
 *[chat.openai.com](https://chat.openai.com)*
 
 ## About
 
+- Cost
+    - Free version
+    - Paid version with more features
 - Text based
+- Can generate images
+    - Powered by DALL-E: [labs.openai.com](https://labs.openai.com/)
 - GPT stands for Generative pre-trained transformer
-- The current version is based on data < 2021
 - It is not connected to the internet
+    - The current version is based on data < 2021
 
 ## ChatGPT Plus
 
@@ -30,10 +57,6 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Twitter: [@OpenAI](https://twitter.com/OpenAI)
 - Discord: [discord.com/invite/openai](https://discord.com/invite/openai)
 - Support: [help.openai.com](https://help.openai.com/en)
-
-#### Other
-
-- DALL-E: [labs.openai.com](https://labs.openai.com/)
 
 ## Opportunities
 
