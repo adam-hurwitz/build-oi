@@ -68,4 +68,44 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - [ChatGPT: How to Use the AI Chatbot for Free](https://www.howtogeek.com/871065/chatgpt-how-to-use-the-ai-chatbot-for-free/) *by How-To Geek 2023-04-27*
 
+# Midjourney
+
+*[midjourney.com](https://www.midjourney.com)*
+
+#### About
+
+- Text to image and image to text
+- Plans: [docs.midjourney.com/docs/plans](https://docs.midjourney.com/docs/plans)
+    - Include general commercial usage terms
+- Discord: [discord.com/invite/midjourney](https://discord.com/invite/midjourney)
+- Resources
+    - [How to use Midjourney](https://www.tomsguide.com/how-to/how-to-use-midjourney) *by Tom's Guide April 2023*
+
+# Stable Diffusion
+
+*[stablediffusionweb.com](https://stablediffusionweb.com)*
+
+#### About
+
+- Text to image and image to text
+
+# Related topics
+
+## Examples
+
+- [Ethereum Art Daily](https://foundation.app/collection/EthereumArtDaily)
+    - Images generated with Midjourney
+        - Site: [midjourney.com](https://www.midjourney.com)
+    - NFTs minted with Foundation
+        - Site: [foundation.app](https://foundation.app)
+    - Twitter: [@EthArtDaily](https://twitter.com/EthArtDaily)
+    - Created by Adriano Feria
+        - Twitter: [AdrianoFeria](https://twitter.com/AdrianoFeria)
+
+## Tools
+
+![Artificial intelligence tools table list](https://hackmd.io/_uploads/ryUFCjqV2.jpg "Artificial intelligence tools")
+
+<p style="text-align: center; font-style: italic;">Source unknown</p>
+
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
