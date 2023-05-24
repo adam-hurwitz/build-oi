@@ -40,7 +40,7 @@ No existing platform has all of these features and some features have not been f
 
 ## Editor
 
-- Markdown based (`.md`) files: [Open info](https://docs.google.com/document/d/1ieB9vKFXWfLmRSZ3kJspgw9Y7wRWWeiCLEFnAlUEec8/edit#heading=h.7icxlksdi4h9)
+- Markdown based (`.md`) files: [Open info](https://hackmd.io/@openinfo/markdown)
 - Keyboard shortcuts for productivity
 - What you see is what you get (WYSIWYG)
     - Graphical user interface (GUI) to write in Markdown
@@ -113,7 +113,7 @@ No existing platform has all of these features and some features have not been f
 # Inspiration
 
 - [Wikipedia](https://www.wikipedia.org)
-- [Markdown](https://docs.google.com/document/u/0/d/1ieB9vKFXWfLmRSZ3kJspgw9Y7wRWWeiCLEFnAlUEec8/edit)
+- [Markdown](https://hackmd.io/@openinfo/markdown)
     - [HackMD](https://hackmd.io/@openguide/hackmd)
     - [GitBook](https://openguide.gitbook.io/gitbook)
     - [Notion](https://openguide.notion.site/openguide/Notion-f2be2968060847d08307f685d2af861d)
