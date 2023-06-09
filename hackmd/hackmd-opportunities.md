@@ -28,6 +28,7 @@ Opportunities
     - [LanguageTool](https://languagetool.org/) compatibility (Open-source) (P1)
     - Add new words to the spell checker dictionary (P1)
 - Word and character counters (P2)
+    - Show the counts for highlighted text.
 - Table builder UI in the toolbar (P2)
     - Disable interchanging row background colors
         - A.k.a. zebra striping

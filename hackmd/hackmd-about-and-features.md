@@ -56,6 +56,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Create a table
     - Add and remove rows and columns
     - Set the text alignment
+- Word and character counts
+    - Bottom-right corner of the editor view
+    - Click for word count
 - Test HackMD's version of Markdown vs. generic Markdown: View the markdown code in [Visual Studio Code (VS Code)](https://code.visualstudio.com/). 
 - Customize themes and styles with Markdown and save to a template.
 - [How to Use Template](https://hackmd.io/s/how-to-use-template)
