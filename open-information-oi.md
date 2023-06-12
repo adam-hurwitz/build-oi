@@ -118,6 +118,7 @@ No existing platform has all of these features and some features have not been f
     - [GitBook](https://openguide.gitbook.io/gitbook)
     - [Notion](https://openguide.notion.site/openguide/Notion-f2be2968060847d08307f685d2af861d)
     - [Skiff Pages](https://app.skiff.com/docs/30e628c2-ad96-499c-9955-29c76d87e739#gynNAXdPNN2hkOByLitx+b5jAygdM7Q9OUfYBNkVWOA=)
+    - [Logseq](https://logseq.com)
     - [Docusaurus](https://docusaurus.io)
         - Sample: [docs.radicle.xyz](https://docs.radicle.xyz/)
     - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
