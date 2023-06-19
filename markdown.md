@@ -117,6 +117,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - `mailto:someemail@domain.xyz`
     * Do not include prefix `https://`
 
+#### Phone
+
+- US: `tel:1234567890`
+- Int'l: `tel:+11234567890`
+
 #### Open in a new tab
 
 - `<a href="https://duckduckgo.com" target="_blank">Duck Duck Go</a>`
