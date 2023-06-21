@@ -123,9 +123,7 @@ B. Edit file locally in VS Code.
 
 ## Publish
 
-### Basics
-
-#### Custom links
+### Custom links
 
 - HackMD readable custom URLs
     - Format: `hackmd.io/[@username]/[pagename]`
@@ -135,7 +133,7 @@ B. Edit file locally in VS Code.
     - [Universal method](https://docs.google.com/document/d/1ieB9vKFXWfLmRSZ3kJspgw9Y7wRWWeiCLEFnAlUEec8/edit#heading=h.1gcz6hoi61b3)
     - HackMD method: [External link](https://hackmd.io/s/how-to-create-book#External-Link)
 
-#### Set metadata
+### Set metadata
 
 - About
     - Sets the information that shows in the browser window/tab and link preview.
@@ -148,6 +146,13 @@ B. Edit file locally in VS Code.
         - [Tagging notes](https://hackmd.io/s/how-to-tag-notes)
     - Image
     - etc.
+
+### Title
+
+- Automatically sets the title in the published version based on the metadata
+- Disable: In any form of edit mode select *Note settings* ("i" button at the top menu bar, next to the note title)
+    - *Show title in view mode*
+    - *Show tags in view mode*
 
 ### Formats
 
