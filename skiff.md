@@ -2,7 +2,7 @@
 
 ---
 
-# About
+[subpage-a7994249-c76e-4a82-a391-3e47668ded9d](https:app.skiff.com/file/a7994249-c76e-4a82-a391-3e47668ded9d)# About
 
 [*skiff.com*](https://skiff.com)
 
@@ -15,7 +15,6 @@
  - Drive: 
  - Pages: 
  - Apps: 
- - Feature requests: 
 ## Community and support
 
  - FAQs:
@@ -24,7 +23,9 @@
  - In-app: 
      - Generates a ticket # sent via email
      - Include a screenshot and/or video
+ - Feature requests: 
  - Twitter: 
+ - Reddit: 
 ## **Investor**
 
  - Sequoia Capital
@@ -96,18 +97,28 @@
  - Must link wallet address first.
 # Opportunities
 
-## Email
+[*Fixed*](https://app.skiff.com/docs/a7994249-c76e-4a82-a391-3e47668ded9d#uoWQLbfTtVH%2BnmkG6v9rngXfRwm9ZkN4sdJ5k%2FzC5JE%3D)
 
-**Load blocked email images (P0)**
+# Mail
 
- - When choosing to load blocked email images the view reverts to blocking the images after ~1 minute.
- - Browser: Firefox v113.0.2
- - See 
+**Back up emails (P0, Ticket #**12841**)**
+
+ - Export all email data
+ - Feature request 2023-06-24
+ - Export Emails from Skiff
 # Drive
 
-**Upload Git directories (P0)**
+**Upload folders that contain git files (P0, Ticket #12720)**
 
- - Files in an uploaded .git folder are being dropped and the files that are uploaded are not being nested into the .git directory as expected.
+ - Issue
+     - Files in an uploaded .git folder are not being uploaded.
+     - The files that are uploaded are not being nested into the .git directory as expected.
+     - See 
+ - Potential solutions
+     - Manually create a .git folder in Skiff and upload all of the contents from the local .git folder
+     - Pop-up interstitial when a .git folder is detected, asking the user whether they want to upload or ignore
+         - Option to choose this setting moving forward or just this one time
+     - User setting to enable/disable .git folder uploads
 ## Sign in with Ethereum (SIWE)
 
 **Use MetaMask as a bridge to sign in with a Ledger hardware wallet (P0)**
