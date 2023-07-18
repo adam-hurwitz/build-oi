@@ -46,6 +46,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [Best Password Manager in 2023](https://www.cnet.com/tech/services-and-software/best-password-manager) *by CNet*
 - [The Best Password Managers for 2023](https://www.pcmag.com/picks/the-best-password-managers) *by PCMag*
 
+#### Investors
+
+- [Open source password manager Bitwarden raises $100M](https://techcrunch.com/2022/09/06/open-source-password-manager-bitwarden-raises-100m/) *by TechCrunch 2022-09-06*
+
 # Features
 
 #### Vault
