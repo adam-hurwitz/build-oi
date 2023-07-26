@@ -30,4 +30,34 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Blog: [yup.mirror.xyz](https://yup.mirror.xyz)
 - Documentation: [docs.yup.io](https://docs.yup.io)
 
+# Opportunities
+
+## Public audit
+
+- Publish a third party security audit of how Yup manages the user's social media read and write credentials.
+- E.g. ConsenSys Diligence, OpenZeppelin, Quantstamp, Sigma Prime, Trail of Bits, etc.
+
+## Web app
+
+- Easy sign in using the mobile app
+    - Scan the web app QR code with the phone, E.g. Farcaster web app sign in
+- Sign-in with Ethereum (SIWE)
+
+## Android app
+
+- Twitter not showing in the feed: v0.0.17 *2023-07-25*
+
+## Messaging
+
+- Aggregate messaging protocols
+- E.g. XMTP, Push Chat, etc.
+
+## Business models
+
+- Freemium
+    - E.g. Ad supported and ad-free paid platforms
+    - E.g. Offer unlimited read-access and limited posts per month, similar to Buffer
+- Free trial
+    - E.g. Offer all features for a month
+
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
