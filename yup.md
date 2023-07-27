@@ -46,6 +46,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ## Android app
 
 - Twitter not showing in the feed: v0.0.17 *2023-07-25*
+- Search and show platform usernames in Create Post, Complete tags view
+    - This saves the user from having to open each platform to search for the usernames.
+    - Show a list of username results for each platform as the user types.
+    - Allow the user to select the username.
 
 ## Messaging
 
