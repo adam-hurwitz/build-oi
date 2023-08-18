@@ -9,6 +9,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # In-person
 
+## Nielsen Norman Group (NNG)
+
+- Site: [nngroup.com/ux-certification](https://nngroup.com/ux-certification)
+
 ## General Assembly
 
 #### About
@@ -29,6 +33,14 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [User Experience Design](https://generalassemb.ly/education/user-experience-design/new-york-city)
 
 # Online
+
+## Google
+
+- [Google UX Design Professional Certificate](https://www.coursera.org/google-certificates/ux-design-certificate) by *Coursera*
+
+## DesignLab
+
+- [UX: Interaction Design Course](https://designlab.com/interaction-design-course)
 
 ## Udacity
 
