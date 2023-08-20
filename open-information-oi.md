@@ -1,6 +1,6 @@
 ---
 title: 🌐 Open information (OI)
-tags: about
+tags: build
 description: Open information
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
@@ -95,6 +95,8 @@ No existing platform has all of these features and some features have not been f
 - Contested info
     - Ability to fork pages for heavily contested information
     - Users can save their page fork preferences
+    - Information consensus mechanisms
+        - E.g. Twitter's community notes: [What do I think about Community Notes?](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) *by Vitalik Buterin*
 - E.g. Snapshot voting: [Open info](https://hackmd.io/@openinfo/daos#Snapshot-voting)
 
 ## Programmability
