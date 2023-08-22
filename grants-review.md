@@ -9,7 +9,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Process
 
-1. Check that the application is complete.
-2. Check the team's background, past work, and projects.
+1. Application is complete
+2. Differentiation
+    a. Team's background, past work, and projects
+    b. Specific technical considerations related to the opportunity
+3. Wait until the final submission to provide scores
 
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
