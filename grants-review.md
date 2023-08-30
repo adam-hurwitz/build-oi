@@ -24,7 +24,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 4. Team
     a. Team's background
     b. Past work and projects: Provide links to publicly accessible sources. If not available, provide references of who to talk to about previous work together.
-    c. Past grants: Past grants proposal and grants program retrospective or publicly shareable results
+    c. Past grants: Is there public info on past grants proposal(s) and/or grants program retrospective discussing the results?
 6. Wait until the final submission to provide scores
 
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
