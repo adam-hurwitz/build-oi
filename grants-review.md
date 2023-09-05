@@ -25,7 +25,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     a. Team's background
     b. Past work and projects: Provide links to publicly accessible sources. If not available, provide references of who to talk to about previous work together.
     c. Past grants: Is there public info on past grants proposal(s) and/or grants program retrospective discussing the results?
-6. Business model
+6. Funding allocation
+    - What will the grants funds be used for on a detailed level? 
+    - E.g. Funds could be allocated based on features, time period, contributors, etc.
+7. Business model
     - I.e. How will this operate long-term?
         - One-time or subscription purchase from users
         - Grants and public goods funding
