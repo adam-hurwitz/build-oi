@@ -46,4 +46,8 @@ c. Past grants: Is there public info on past grants proposal(s) and/or grants pr
 - If one scoring topic is a deal breaker for the proposal, provide a detailed explanation for that topic.
 - You can provide briefer explanations for the other topics.
 
+# Resources
+
+- [State of Web3 Grants Report](https://docs.google.com/document/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit#heading=h.y5h1kb3c7o4y) *funded by Gitcoin*
+
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>

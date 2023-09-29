@@ -50,6 +50,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Two-way syncing with Google calendar
 - *See [Use Google Calendar with Todoist](https://todoist.com/help/articles/use-google-calendar-with-todoist) by Todoist*
 
+#### Gantt charts
+
+- [Ganttify](https://todoist.com/integrations/apps/ganttify) integration
+    - [Use Ganttify with Todoist](https://todoist.com/help/articles/use-ganttify-with-todoist)
+
 #### Security
 
 - Multi-factor authentication (MFA): [How to enable two-factor authentication](https://todoist.com/help/articles/how-to-enable-two-factor-authentication) *by Todoist*
