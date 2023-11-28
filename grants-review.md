@@ -46,8 +46,48 @@ c. Past grants: Is there public info on past grants proposal(s) and/or grants pr
 - If one scoring topic is a deal breaker for the proposal, provide a detailed explanation for that topic.
 - You can provide briefer explanations for the other topics.
 
-# Resources
+# Research
 
 - [State of Web3 Grants Report](https://docs.google.com/document/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit#heading=h.y5h1kb3c7o4y) *funded by Gitcoin*
+
+# Tools
+
+## CharmVerse
+
+#### About
+
+- Site: [charmverse.io](https://www.charmverse.io/)
+- Collaboration tools for self-ownership accounts
+- Login with self-ownership accounts, social media, or custodidal accounts
+- Role based access controls with token gating
+
+#### Community and support
+
+- Twitter: [@CharmVerse](https://twitter.com/CharmVerse)
+- Discord: [discord.com/invite/VvhEafEWcg](https://discord.com/invite/VvhEafEWcg)
+
+#### Adoption
+
+- Optimism
+- UkraineDAO
+- Green Pill
+- PleasrDAO
+- etc.
+
+#### Opportunities
+
+- [Open info (OI)](https://docs.google.com/document/d/1RH7OfIUdc_0Yo5pAl9y1wiaOLsGqcZVVA6vh_88vv_g/edit#heading=h.5bs3u9tliuao)
+
+## Related
+
+- Gitcoin Grants Stack: [gitcoin.co/grants-stack](https://www.gitcoin.co/grants-stack)
+- Questbook
+    - Site: [questbook.xyz](https://www.questbook.xyz/)
+    - Adoption
+        - Arbitrum
+        - Compound
+        - Celo Ecoystem
+        - Solana Ecosystem
+        - etc.
 
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
