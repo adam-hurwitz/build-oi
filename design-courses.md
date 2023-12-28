@@ -91,9 +91,18 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Pricing: Free
 - Great for editing SVGs
 - Videos
-    - [How To Design & Prepare App Icons in Inkscape | Tutorial](https://www.youtube.com/watch?v=r2Kv61cd2P4&t=184s) _by Logos By Nick_
-    - [Using Inkscape To Easily Create Svg Files](https://www.positivelysplendid.com/using-inkscape-to-easily-create-svg-files/) _by positivelysplendid.com_
-    - [How To Make Inkscape Go Dark](https://logosbynick.com/how-to-make-inkscape-go-dark/) _by logosbynick.com_
+    - [How To Design & Prepare App Icons in Inkscape | Tutorial](https://www.youtube.com/watch?v=r2Kv61cd2P4&t=184s) *by Logos By Nick*
+    - [Using Inkscape To Easily Create Svg Files](https://www.positivelysplendid.com/using-inkscape-to-easily-create-svg-files/) *by positivelysplendid.com*
+    - [How To Make Inkscape Go Dark](https://logosbynick.com/how-to-make-inkscape-go-dark/) *by logosbynick.com*
+
+#### tldraw
+
+- Site: [tldraw.com](https://www.tldraw.com)
+- About: Whiteboard with AI integrations
+- Tech: Open source
+- X: [@tldraw](https://x.com/tldraw)
+- Discord: [discord.com/invite/s4FXZ6fppJ](https://discord.com/invite/s4FXZ6fppJ)
+- GitHub: [github.com/tldraw](https://github.com/tldraw)
 
 #### Figma
 
