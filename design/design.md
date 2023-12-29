@@ -1,6 +1,6 @@
 ---
 title: 🎨 Design
-tags: build
+tags: design
 description: 🎨 Design
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
@@ -12,15 +12,18 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ## Penpot
 
 - Site: [penpot.app](https://penpot.app)
-- About: Creating design views
-- Platforms: Web
-- Tech: Open source and open standards
-- Pricing: Free
-- Built by Kaleidos
-    - Site: [kaleidos.net](https://kaleidos.net/)
-- X
-    - [@penpotapp](https://twitter.com/penpotapp)
-    - [@kaleidosnet](https://twitter.com/kaleidosnet)
+- About
+    - Creating design views
+    - Platforms: Web
+    - Tech: Open source and open standards
+    - Pricing: Free
+    - Built by Kaleidos: [kaleidos.net](https://kaleidos.net/)
+- Community and support
+    - Support: [help.penpot.app](https://help.penpot.app)
+    - YouTube: [youtube.com/c/Penpot](https://www.youtube.com/c/Penpot)
+    - X
+        - [@penpotapp](https://twitter.com/penpotapp)
+        - [@kaleidosnet](https://twitter.com/kaleidosnet)
 - Resources
     - [Open Source Design Collaboration](https://softwareengineeringdaily.com/2023/01/02/open-source-design-collaboration/) *by Software Engineering Daily*
 

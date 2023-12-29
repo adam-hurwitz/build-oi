@@ -1,6 +1,6 @@
 ---
 title: 🎨 Design courses
-tags: build
+tags: design
 description: 🎨 Design courses
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
