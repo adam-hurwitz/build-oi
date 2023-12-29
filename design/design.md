@@ -1,73 +1,15 @@
 ---
-title: 🎨 Design courses
+title: 🎨 Design
 tags: build
-description: 🎨 Design courses
+description: 🎨 Design
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
 
-<h1 style="text-align: center;">🎨 Design courses</h1>
-
-# In-person
-
-## Nielsen Norman Group (NNG)
-
-- Site: [nngroup.com/ux-certification](https://nngroup.com/ux-certification)
-
-## General Assembly
-
-#### About
-
-- Site: [generalassemb.ly](https://generalassemb.ly)
-- [Course Catalog](https://generalassemb.ly/browse)
-- Course types: Full-time in-person, Part-time in-person, and online
-
-#### Immersive
-
-- [User Experience Design Immersive](https://generalassemb.ly/education/user-experience-design-immersive/new-york-city)
-- Pay tuition back in manageable monthly installments after you land a job.
-    - Income share agreement/Income share loan (ISL)
-    - [Financing](https://generalassemb.ly/how-we-work/financing)
-
-#### Evening and 1-Week Courses
-
-- [User Experience Design](https://generalassemb.ly/education/user-experience-design/new-york-city)
-
-# Online
-
-## Google
-
-- [Google UX Design Professional Certificate](https://www.coursera.org/google-certificates/ux-design-certificate) by *Coursera*
-
-## DesignLab
-
-- [UX: Interaction Design Course](https://designlab.com/interaction-design-course)
-
-## Coursera
-
-- Site: [coursera.org](https://www.coursera.org)
-- About: University partnerships
-
-## Udacity
-
-### Search
-
-- [Product design](https://www.udacity.com/courses/all?skill=Product%20Design)
-
-### How to Become a UX Designer
-
-- [Nanodegree program](https://www.udacity.com/course/ux-designer-nanodegree--nd578)
-- Level: Beginner
-- [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/UX%2BDesigner%2BNanodegree%2BProgram%2BSyllabus.pdf)
-- [Career Services](https://www.udacity.com/career-services/home)
-
-## BrainStation
-
-- Site: [brainstation.io](https://brainstation.io)
-- About: Multiple city in-person courses
+<h1 style="text-align: center;">🎨 Design</h1>
 
 # Tools
 
-#### Penpot
+## Penpot
 
 - Site: [penpot.app](https://penpot.app)
 - About: Creating design views
@@ -82,7 +24,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Resources
     - [Open Source Design Collaboration](https://softwareengineeringdaily.com/2023/01/02/open-source-design-collaboration/) *by Software Engineering Daily*
 
-#### Inkscape
+## Inkscape
 
 - Site: [inkscape.org](https://inkscape.org)
 - About: Creating vector graphics for design views
@@ -95,7 +37,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - [Using Inkscape To Easily Create Svg Files](https://www.positivelysplendid.com/using-inkscape-to-easily-create-svg-files/) *by positivelysplendid.com*
     - [How To Make Inkscape Go Dark](https://logosbynick.com/how-to-make-inkscape-go-dark/) *by logosbynick.com*
 
-#### tldraw
+## tldraw
 
 - Site: [tldraw.com](https://www.tldraw.com)
 - About: Whiteboard with AI integrations
@@ -104,7 +46,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Discord: [discord.com/invite/s4FXZ6fppJ](https://discord.com/invite/s4FXZ6fppJ)
 - GitHub: [github.com/tldraw](https://github.com/tldraw)
 
-#### Figma
+## Figma
 
 [Figma open info (OI)](https://docs.google.com/document/d/1-0KSRDfHjLvkzuYi-6Mb7aOPCl4V2ePGvjPA5Pj77Gs/edit#heading=h.b0ohp4ik4en0)
 
@@ -119,6 +61,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Resources
 
+- Design courses: hackmd.io/@openinfo/design-courses
 - [Swiss design](http://www.designishistory.com/home/swiss/) *by Design is history*
 
 <p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
