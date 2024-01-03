@@ -13,11 +13,13 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 # About
 
 - Self controlled and owned collaboration, data, documents, files, etc.
-- Backend: Powered by [gun.eco](https://gun.eco)
+- Backend: Powered by [gun.eco](https://gun.eco), IPFS, and Arweave
+- Compatible with [Safe.global](https://safe.global) smart accounts
+    - Use the Fileverse app directly in the Safe apps view instead of connecting to the fileverse.io web app separately
 
 # Community and support
 
-- Twitter: [@fileverse](https://twitter.com/fileverse)
+- X: [@fileverse](https://twitter.com/fileverse)
 - Email: [hello@fileverse.io](mailto:hello@fileverse.io)
 - GitHub: [github.com/fileverse](https://github.com/fileverse)
 
