@@ -17,7 +17,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Free (Requires users to download Microsoft's Edge browser)
 - Text based
 - Connected to the internet
-    - Causes a few seconds of loading time
+    - There's a few seconds of load time
 - Provides the sources used to generate the results
 
 ## Generate images
@@ -30,6 +30,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - Requires signing into a Microsoft account in Edge > *Set tone of responses* > Select *More Creative* > Indicate in the chat to create an image, e.g. `Create an image of a Lorax`.
 - Or, use standalone site: [bing.com/create](https://www.bing.com/create)
+
+#### Opportunities
+
+- View prompt history
 
 # ChatGPT
 
