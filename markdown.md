@@ -1,7 +1,7 @@
 ---
 title: 🖋️ Markdown
-tags: about
-description: Markdown
+tags: build
+description: Markdown open info (OI)
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
 
@@ -128,9 +128,18 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Tables
 
-#### Use HTML table builders for complex tables
+#### About
 
-- Markdown formatting that doesn't work in tables: Headings, lists, line breaks,  images, horizontal rules, and blockquotes.
+- Markdown formatting that doesn't work in tables: Headings, lists, line breaks,  images, horizontal rules, and blockquotes
+- You have to use HTML
+
+#### Convert a table from a Google document
+
+- Use [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)
+- *See [Documents (Gdocs) open info (OI)](https://docs.google.com/document/d/1h5SlVd8rRue17lOPDPNXifzc3TyhHZ987n9KuKSze-U/edit#heading=h.buz70iz4rq18)*
+
+#### HTML table builders
+
 - UI to build a table
     - [tablesgenerator.com](https://www.tablesgenerator.com/markdown_tables)
         - Build complex tables in HTML to copy and paste into Markdown files.
