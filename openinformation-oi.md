@@ -74,7 +74,9 @@ No existing platform has all of these features and some features have not been f
 
 ## Version control systems (VCS)
 
-- Git based versioning
+- UX for version control
+    - Powered by Git
+    - Manage versioning without interacting with Git directly
 - E.g., GitHub, GitLab, and Radicle
 
 ## Security
