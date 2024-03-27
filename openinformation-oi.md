@@ -121,13 +121,13 @@ No existing platform has all of these features and some features have not been f
     - [HackMD](https://hackmd.io/@openinfo/hackmd)
     - [GitBook](https://openguide.gitbook.io/gitbook)
     - [Notion](https://openguide.notion.site/openguide/Notion-f2be2968060847d08307f685d2af861d)
-    - [Skiff Pages](https://app.skiff.com/docs/30e628c2-ad96-499c-9955-29c76d87e739#gynNAXdPNN2hkOByLitx+b5jAygdM7Q9OUfYBNkVWOA=)
     - [Fileverse](https://hackmd.io/@openinfo/fileverse)
     - [Logseq](https://logseq.com)
     - [Docusaurus](https://docusaurus.io)
         - Sample: [docs.radicle.xyz](https://docs.radicle.xyz/)
     - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
     - [GitHub Pages](https://pages.github.com)
+    - [Skiff Pages](https://drive.proton.me/urls/9Q9G186SRW#FWCciJQ7Ay76) (Shut down in 2024)
 - [Google documents](https://docs.google.com/document/d/1h5SlVd8rRue17lOPDPNXifzc3TyhHZ987n9KuKSze-U/edit#heading=h.buz70iz4rq18)
 - [Dropbox Paper](https://www.dropbox.com/paper)
 - [Quiver](https://happenapps.com)
@@ -144,4 +144,4 @@ No existing platform has all of these features and some features have not been f
 - [Kiwix](https://www.kiwix.org/en/about)
 - Many more...
 
-<p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not technical advice. Do your own research.</p>
